@@ -1,0 +1,2 @@
+# Hotel-Management-Using-Python
+This project is based on Python and MySQL for database. This application is suitable for college projects and also suitable for individuals who are seeking to learn python by hands on project. This application has decent GUI , entry and exit system of customers, efficient Admin dashboard, concurrent updates both in dashboard as well as in database. Hope you will enjoy this project. Thank you.
